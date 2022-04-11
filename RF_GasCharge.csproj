@@ -25,15 +25,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="Interop.OPCAutomation">
-      <HintPath>dll\Interop.OPCAutomation.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="dll\Interop.OPCAutomation.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="img\done.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
